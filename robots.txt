@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /pages/
+Allow: /public/
+Allow: /components/
+
+Sitemap: https://www.4kbetminer.com/sitemap.xml
